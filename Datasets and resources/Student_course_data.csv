@@ -1,0 +1,501 @@
+User_ID,Name,Experience Level,Preferred Learning Mode,Area of Interest,Technologies of Interest,Time commitment (hrs/week),Courses Explored,Courses Enrolled,Completion Status,Feedback Rating
+101,User_1,Advanced,Self-paced,Data Science,"HTML, CSS, JavaScript",7,Advanced SQL Techniques,Java Basics,Completed,3.4
+102,User_2,Intermediate,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",8,Java Basics,Java Basics,In Progress,3.4
+103,User_3,Advanced,Self-paced,Software Development,"Java, Python",13,Node.js Essentials,"Intro to HTML, CSS",In Progress,3.1
+104,User_4,Advanced,Self-paced,Data Science,"Java, Python",20,Intro to HTML,Java Basics,Completed,3.6
+105,User_5,Beginner,Self-paced,Front-End Development,"HTML, CSS, JavaScript",13,Data Science with Python,Java Basics,Completed,3.3
+106,User_6,Advanced,Hybrid,Front-End Development,"Python, R, SQL",11,Advanced SQL Techniques,JavaScript Essentials,In Progress,3.7
+107,User_7,Advanced,Self-paced,Front-End Development,"Python, R, SQL",12,CSS Basics,"Intro to HTML, CSS",In Progress,3.8
+108,User_8,Intermediate,Hybrid,Data Science,"Java, Python",17,CSS Basics,JavaScript Essentials,In Progress,3.0
+109,User_9,Advanced,Self-paced,Front-End Development,"JavaScript, Node.js, React",14,Intro to HTML,Full-Stack fundamentals,In Progress,3.5
+110,User_10,Advanced,Self-paced,Front-End Development,"HTML, CSS, JavaScript",20,Advanced SQL Techniques,JavaScript Essentials,Completed,4.6
+111,User_11,Advanced,Instructor-led,Software Development,"HTML, CSS, JavaScript",13,Java Basics,"Intro to HTML, CSS",Completed,4.7
+112,User_12,Advanced,Hybrid,Data Science,"Python, R, SQL",18,CSS Basics,Full-Stack fundamentals,Completed,3.9
+113,User_13,Beginner,Self-paced,Front-End Development,"HTML, CSS, JavaScript",9,Intro to HTML,JavaScript Essentials,In Progress,3.6
+114,User_14,Intermediate,Hybrid,Software Development,"JavaScript, Node.js, React",20,Advanced SQL Techniques,JavaScript Essentials,In Progress,4.6
+115,User_15,Intermediate,Hybrid,Front-End Development,"Java, Python",12,Python for Beginners,"Intro to HTML, CSS",In Progress,3.2
+116,User_16,Intermediate,Hybrid,Software Development,"JavaScript, Node.js, React",9,Java Basics,JavaScript Essentials,In Progress,3.3
+117,User_17,Advanced,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",9,Data Science with Python,Data Science with Python,In Progress,4.8
+118,User_18,Intermediate,Hybrid,Full-Stack Development,"Java, Python",7,Node.js Essentials,Full-Stack fundamentals,Completed,5.0
+119,User_19,Advanced,Hybrid,Data Science,"Java, Python",18,Full-Stack fundamentals,Data Science with Python,Completed,4.0
+120,User_20,Intermediate,Hybrid,Data Science,"Java, Python",11,Java Basics,"Intro to HTML, CSS",Completed,4.4
+121,User_21,Advanced,Instructor-led,Software Development,"Python, R, SQL",6,Full-Stack fundamentals,Data Science with Python,Completed,3.9
+122,User_22,Advanced,Hybrid,Front-End Development,"Python, R, SQL",14,Java Basics,"Intro to HTML, CSS",Completed,3.8
+123,User_23,Advanced,Hybrid,Software Development,"Python, R, SQL",17,Data Science with Python,Data Science with Python,In Progress,4.6
+124,User_24,Beginner,Instructor-led,Front-End Development,"Java, Python",11,Full-Stack fundamentals,Full-Stack fundamentals,Completed,4.2
+125,User_25,Beginner,Self-paced,Software Development,"HTML, CSS, JavaScript",13,Advanced SQL Techniques,JavaScript Essentials,In Progress,3.5
+126,User_26,Intermediate,Hybrid,Front-End Development,"Python, R, SQL",7,Java Basics,Full-Stack fundamentals,Completed,3.4
+127,User_27,Intermediate,Instructor-led,Software Development,"JavaScript, Node.js, React",15,Intro to HTML,Java Basics,In Progress,3.8
+128,User_28,Advanced,Instructor-led,Software Development,"JavaScript, Node.js, React",6,Python for Beginners,Java Basics,In Progress,3.8
+129,User_29,Intermediate,Instructor-led,Software Development,"Python, R, SQL",19,Advanced SQL Techniques,Java Basics,Completed,4.8
+130,User_30,Advanced,Instructor-led,Software Development,"HTML, CSS, JavaScript",13,Full-Stack fundamentals,Java Basics,Completed,4.9
+131,User_31,Advanced,Instructor-led,Full-Stack Development,"Python, R, SQL",5,Python for Beginners,"Intro to HTML, CSS",Completed,4.0
+132,User_32,Advanced,Instructor-led,Front-End Development,"Python, R, SQL",17,Python for Beginners,Full-Stack fundamentals,Completed,4.9
+133,User_33,Intermediate,Self-paced,Front-End Development,"Java, Python",14,Node.js Essentials,Data Science with Python,In Progress,4.4
+134,User_34,Intermediate,Hybrid,Software Development,"JavaScript, Node.js, React",19,Data Science with Python,JavaScript Essentials,In Progress,3.8
+135,User_35,Beginner,Instructor-led,Data Science,"Java, Python",8,CSS Basics,Data Science with Python,In Progress,4.6
+136,User_36,Advanced,Hybrid,Front-End Development,"Python, R, SQL",7,Python for Beginners,JavaScript Essentials,Completed,4.9
+137,User_37,Intermediate,Instructor-led,Full-Stack Development,"Python, R, SQL",11,CSS Basics,Java Basics,Completed,5.0
+138,User_38,Beginner,Hybrid,Front-End Development,"Python, R, SQL",20,CSS Basics,JavaScript Essentials,In Progress,4.4
+139,User_39,Beginner,Self-paced,Full-Stack Development,"Python, R, SQL",9,Intro to HTML,JavaScript Essentials,Completed,3.8
+140,User_40,Beginner,Hybrid,Software Development,"Python, R, SQL",6,Java Basics,JavaScript Essentials,Completed,4.3
+141,User_41,Intermediate,Self-paced,Data Science,"Python, R, SQL",8,CSS Basics,"Intro to HTML, CSS",Completed,3.7
+142,User_42,Intermediate,Hybrid,Front-End Development,"JavaScript, Node.js, React",16,Advanced SQL Techniques,JavaScript Essentials,Completed,3.4
+143,User_43,Advanced,Hybrid,Software Development,"JavaScript, Node.js, React",14,Python for Beginners,JavaScript Essentials,In Progress,4.3
+144,User_44,Advanced,Self-paced,Full-Stack Development,"Java, Python",7,Python for Beginners,Java Basics,Completed,4.0
+145,User_45,Beginner,Hybrid,Full-Stack Development,"JavaScript, Node.js, React",5,Advanced SQL Techniques,Data Science with Python,Completed,3.1
+146,User_46,Advanced,Self-paced,Software Development,"Java, Python",7,Full-Stack fundamentals,Java Basics,Completed,3.1
+147,User_47,Advanced,Hybrid,Data Science,"Python, R, SQL",9,Full-Stack fundamentals,JavaScript Essentials,In Progress,4.2
+148,User_48,Beginner,Instructor-led,Data Science,"HTML, CSS, JavaScript",13,Advanced SQL Techniques,Java Basics,Completed,4.0
+149,User_49,Beginner,Hybrid,Data Science,"HTML, CSS, JavaScript",14,CSS Basics,Data Science with Python,Completed,4.6
+150,User_50,Intermediate,Self-paced,Data Science,"HTML, CSS, JavaScript",11,Full-Stack fundamentals,Data Science with Python,Completed,3.4
+151,User_51,Beginner,Instructor-led,Full-Stack Development,"Java, Python",10,Full-Stack fundamentals,Data Science with Python,Completed,4.5
+152,User_52,Advanced,Instructor-led,Software Development,"HTML, CSS, JavaScript",20,Python for Beginners,Java Basics,In Progress,3.4
+153,User_53,Beginner,Hybrid,Front-End Development,"Java, Python",13,CSS Basics,JavaScript Essentials,Completed,4.5
+154,User_54,Beginner,Hybrid,Software Development,"Java, Python",11,Node.js Essentials,"Intro to HTML, CSS",Completed,4.5
+155,User_55,Advanced,Self-paced,Full-Stack Development,"Python, R, SQL",17,Data Science with Python,"Intro to HTML, CSS",In Progress,3.7
+156,User_56,Beginner,Instructor-led,Software Development,"JavaScript, Node.js, React",18,Data Science with Python,Full-Stack fundamentals,In Progress,4.1
+157,User_57,Advanced,Self-paced,Software Development,"HTML, CSS, JavaScript",8,Intro to HTML,Data Science with Python,Completed,4.5
+158,User_58,Advanced,Self-paced,Front-End Development,"HTML, CSS, JavaScript",13,Python for Beginners,JavaScript Essentials,Completed,4.6
+159,User_59,Advanced,Instructor-led,Front-End Development,"Python, R, SQL",9,Data Science with Python,Full-Stack fundamentals,Completed,4.9
+160,User_60,Beginner,Hybrid,Software Development,"JavaScript, Node.js, React",20,Node.js Essentials,Data Science with Python,In Progress,4.7
+161,User_61,Advanced,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",5,Java Basics,Full-Stack fundamentals,Completed,4.4
+162,User_62,Intermediate,Instructor-led,Front-End Development,"JavaScript, Node.js, React",18,Node.js Essentials,Java Basics,Completed,3.2
+163,User_63,Intermediate,Instructor-led,Data Science,"HTML, CSS, JavaScript",10,Intro to HTML,JavaScript Essentials,Completed,4.1
+164,User_64,Beginner,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",5,Java Basics,Data Science with Python,Completed,3.6
+165,User_65,Advanced,Instructor-led,Software Development,"Java, Python",6,CSS Basics,Data Science with Python,In Progress,3.3
+166,User_66,Intermediate,Instructor-led,Data Science,"HTML, CSS, JavaScript",16,Data Science with Python,"Intro to HTML, CSS",In Progress,4.6
+167,User_67,Beginner,Instructor-led,Software Development,"HTML, CSS, JavaScript",20,Data Science with Python,"Intro to HTML, CSS",In Progress,4.2
+168,User_68,Advanced,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",5,Node.js Essentials,Data Science with Python,In Progress,4.1
+169,User_69,Beginner,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",19,Full-Stack fundamentals,Java Basics,In Progress,4.4
+170,User_70,Advanced,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",5,CSS Basics,Full-Stack fundamentals,Completed,3.6
+171,User_71,Advanced,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",19,Advanced SQL Techniques,JavaScript Essentials,In Progress,3.6
+172,User_72,Advanced,Hybrid,Software Development,"HTML, CSS, JavaScript",16,Data Science with Python,Data Science with Python,In Progress,3.3
+173,User_73,Intermediate,Instructor-led,Software Development,"Java, Python",14,Full-Stack fundamentals,Java Basics,In Progress,3.7
+174,User_74,Advanced,Self-paced,Front-End Development,"Java, Python",12,Python for Beginners,JavaScript Essentials,In Progress,4.2
+175,User_75,Advanced,Hybrid,Software Development,"JavaScript, Node.js, React",5,Python for Beginners,Full-Stack fundamentals,In Progress,3.2
+176,User_76,Intermediate,Self-paced,Data Science,"Python, R, SQL",6,CSS Basics,Full-Stack fundamentals,Completed,3.7
+177,User_77,Beginner,Self-paced,Front-End Development,"JavaScript, Node.js, React",11,Python for Beginners,JavaScript Essentials,In Progress,3.7
+178,User_78,Advanced,Hybrid,Data Science,"Java, Python",12,Intro to HTML,JavaScript Essentials,In Progress,4.6
+179,User_79,Beginner,Instructor-led,Full-Stack Development,"JavaScript, Node.js, React",13,Python for Beginners,Data Science with Python,In Progress,3.5
+180,User_80,Intermediate,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",5,Java Basics,"Intro to HTML, CSS",In Progress,3.7
+181,User_81,Intermediate,Self-paced,Software Development,"Python, R, SQL",6,Full-Stack fundamentals,Full-Stack fundamentals,In Progress,4.1
+182,User_82,Advanced,Instructor-led,Data Science,"HTML, CSS, JavaScript",7,Advanced SQL Techniques,Data Science with Python,In Progress,4.6
+183,User_83,Intermediate,Instructor-led,Software Development,"JavaScript, Node.js, React",15,CSS Basics,Full-Stack fundamentals,In Progress,3.6
+184,User_84,Beginner,Hybrid,Full-Stack Development,"Java, Python",17,Node.js Essentials,Java Basics,In Progress,3.1
+185,User_85,Beginner,Hybrid,Front-End Development,"HTML, CSS, JavaScript",15,Python for Beginners,JavaScript Essentials,Completed,3.9
+186,User_86,Beginner,Instructor-led,Full-Stack Development,"JavaScript, Node.js, React",13,Python for Beginners,Data Science with Python,Completed,4.3
+187,User_87,Beginner,Hybrid,Data Science,"Python, R, SQL",6,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,3.1
+188,User_88,Beginner,Self-paced,Data Science,"JavaScript, Node.js, React",5,Python for Beginners,Data Science with Python,In Progress,4.3
+189,User_89,Advanced,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",15,Intro to HTML,Java Basics,Completed,4.6
+190,User_90,Advanced,Instructor-led,Software Development,"HTML, CSS, JavaScript",6,Data Science with Python,Java Basics,Completed,4.5
+191,User_91,Beginner,Instructor-led,Software Development,"HTML, CSS, JavaScript",20,Advanced SQL Techniques,"Intro to HTML, CSS",In Progress,3.5
+192,User_92,Beginner,Hybrid,Software Development,"Java, Python",9,Java Basics,Data Science with Python,In Progress,4.0
+193,User_93,Intermediate,Instructor-led,Front-End Development,"Java, Python",7,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,3.4
+194,User_94,Beginner,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",19,Full-Stack fundamentals,Full-Stack fundamentals,In Progress,4.0
+195,User_95,Advanced,Instructor-led,Data Science,"JavaScript, Node.js, React",12,Advanced SQL Techniques,Java Basics,Completed,3.5
+196,User_96,Advanced,Self-paced,Data Science,"HTML, CSS, JavaScript",18,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,3.6
+197,User_97,Advanced,Instructor-led,Front-End Development,"JavaScript, Node.js, React",11,Data Science with Python,JavaScript Essentials,Completed,4.5
+198,User_98,Intermediate,Hybrid,Front-End Development,"Java, Python",13,Python for Beginners,Data Science with Python,In Progress,3.4
+199,User_99,Advanced,Instructor-led,Front-End Development,"Java, Python",13,Python for Beginners,"Intro to HTML, CSS",In Progress,3.6
+200,User_100,Beginner,Self-paced,Front-End Development,"JavaScript, Node.js, React",8,Python for Beginners,Full-Stack fundamentals,In Progress,3.7
+201,User_101,Advanced,Instructor-led,Software Development,"Java, Python",19,Node.js Essentials,Full-Stack fundamentals,Completed,4.5
+202,User_102,Intermediate,Self-paced,Full-Stack Development,"HTML, CSS, JavaScript",17,Python for Beginners,"Intro to HTML, CSS",In Progress,4.6
+203,User_103,Intermediate,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",17,Advanced SQL Techniques,JavaScript Essentials,In Progress,3.1
+204,User_104,Intermediate,Hybrid,Software Development,"JavaScript, Node.js, React",9,Advanced SQL Techniques,JavaScript Essentials,Completed,4.2
+205,User_105,Intermediate,Hybrid,Full-Stack Development,"Python, R, SQL",17,CSS Basics,JavaScript Essentials,In Progress,4.9
+206,User_106,Advanced,Hybrid,Full-Stack Development,"Python, R, SQL",7,Java Basics,Data Science with Python,Completed,4.3
+207,User_107,Intermediate,Hybrid,Front-End Development,"Java, Python",8,Advanced SQL Techniques,Full-Stack fundamentals,Completed,3.9
+208,User_108,Beginner,Self-paced,Software Development,"HTML, CSS, JavaScript",7,CSS Basics,Data Science with Python,In Progress,3.7
+209,User_109,Advanced,Instructor-led,Full-Stack Development,"Python, R, SQL",15,Python for Beginners,Data Science with Python,In Progress,3.9
+210,User_110,Advanced,Self-paced,Data Science,"HTML, CSS, JavaScript",6,Advanced SQL Techniques,Java Basics,Completed,4.2
+211,User_111,Advanced,Self-paced,Software Development,"JavaScript, Node.js, React",14,CSS Basics,Data Science with Python,In Progress,4.4
+212,User_112,Intermediate,Instructor-led,Front-End Development,"Java, Python",6,Full-Stack fundamentals,Java Basics,Completed,3.0
+213,User_113,Intermediate,Instructor-led,Full-Stack Development,"Java, Python",10,Data Science with Python,Java Basics,In Progress,4.1
+214,User_114,Beginner,Instructor-led,Full-Stack Development,"Java, Python",13,Advanced SQL Techniques,JavaScript Essentials,In Progress,3.2
+215,User_115,Beginner,Instructor-led,Data Science,"Python, R, SQL",9,Full-Stack fundamentals,"Intro to HTML, CSS",In Progress,4.2
+216,User_116,Advanced,Self-paced,Front-End Development,"Python, R, SQL",19,Advanced SQL Techniques,Java Basics,In Progress,4.4
+217,User_117,Advanced,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",14,CSS Basics,JavaScript Essentials,In Progress,3.0
+218,User_118,Beginner,Hybrid,Front-End Development,"HTML, CSS, JavaScript",8,Java Basics,Data Science with Python,Completed,3.8
+219,User_119,Intermediate,Instructor-led,Front-End Development,"Python, R, SQL",19,Data Science with Python,Java Basics,In Progress,4.2
+220,User_120,Advanced,Self-paced,Full-Stack Development,"Python, R, SQL",17,Python for Beginners,Full-Stack fundamentals,In Progress,3.1
+221,User_121,Beginner,Hybrid,Software Development,"Java, Python",13,Intro to HTML,"Intro to HTML, CSS",In Progress,4.6
+222,User_122,Advanced,Instructor-led,Full-Stack Development,"Python, R, SQL",12,Node.js Essentials,Data Science with Python,In Progress,4.7
+223,User_123,Beginner,Instructor-led,Software Development,"JavaScript, Node.js, React",13,CSS Basics,Full-Stack fundamentals,In Progress,4.1
+224,User_124,Intermediate,Self-paced,Front-End Development,"Python, R, SQL",19,Data Science with Python,Java Basics,Completed,3.6
+225,User_125,Intermediate,Instructor-led,Software Development,"JavaScript, Node.js, React",12,CSS Basics,Java Basics,Completed,4.8
+226,User_126,Beginner,Instructor-led,Front-End Development,"Java, Python",7,Advanced SQL Techniques,Data Science with Python,Completed,3.2
+227,User_127,Intermediate,Self-paced,Data Science,"JavaScript, Node.js, React",14,Java Basics,JavaScript Essentials,In Progress,5.0
+228,User_128,Intermediate,Hybrid,Software Development,"Python, R, SQL",5,Data Science with Python,Full-Stack fundamentals,In Progress,3.9
+229,User_129,Intermediate,Hybrid,Software Development,"HTML, CSS, JavaScript",19,Intro to HTML,"Intro to HTML, CSS",In Progress,3.9
+230,User_130,Intermediate,Instructor-led,Front-End Development,"Python, R, SQL",17,Data Science with Python,Full-Stack fundamentals,In Progress,3.6
+231,User_131,Intermediate,Self-paced,Software Development,"Python, R, SQL",7,Node.js Essentials,JavaScript Essentials,In Progress,3.8
+232,User_132,Advanced,Self-paced,Front-End Development,"HTML, CSS, JavaScript",18,Data Science with Python,JavaScript Essentials,In Progress,3.7
+233,User_133,Beginner,Instructor-led,Data Science,"JavaScript, Node.js, React",20,Intro to HTML,Data Science with Python,In Progress,3.2
+234,User_134,Advanced,Self-paced,Data Science,"HTML, CSS, JavaScript",16,Advanced SQL Techniques,"Intro to HTML, CSS",In Progress,3.2
+235,User_135,Intermediate,Self-paced,Data Science,"Java, Python",10,Full-Stack fundamentals,"Intro to HTML, CSS",In Progress,3.4
+236,User_136,Beginner,Hybrid,Data Science,"JavaScript, Node.js, React",20,Node.js Essentials,Java Basics,In Progress,4.6
+237,User_137,Beginner,Instructor-led,Full-Stack Development,"Java, Python",20,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,4.1
+238,User_138,Beginner,Hybrid,Software Development,"Java, Python",14,Full-Stack fundamentals,Data Science with Python,Completed,3.8
+239,User_139,Beginner,Self-paced,Data Science,"Python, R, SQL",11,Data Science with Python,Full-Stack fundamentals,Completed,4.5
+240,User_140,Advanced,Self-paced,Data Science,"HTML, CSS, JavaScript",17,Advanced SQL Techniques,"Intro to HTML, CSS",In Progress,4.5
+241,User_141,Beginner,Self-paced,Front-End Development,"HTML, CSS, JavaScript",10,Java Basics,Data Science with Python,Completed,3.9
+242,User_142,Beginner,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",14,Python for Beginners,Java Basics,In Progress,3.3
+243,User_143,Advanced,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",12,Python for Beginners,JavaScript Essentials,In Progress,4.8
+244,User_144,Beginner,Self-paced,Front-End Development,"JavaScript, Node.js, React",19,Intro to HTML,Java Basics,In Progress,3.3
+245,User_145,Beginner,Instructor-led,Full-Stack Development,"Python, R, SQL",14,Python for Beginners,Full-Stack fundamentals,In Progress,4.0
+246,User_146,Advanced,Instructor-led,Front-End Development,"JavaScript, Node.js, React",7,Java Basics,Full-Stack fundamentals,Completed,3.9
+247,User_147,Beginner,Hybrid,Software Development,"Java, Python",8,Data Science with Python,Data Science with Python,Completed,3.2
+248,User_148,Advanced,Hybrid,Software Development,"HTML, CSS, JavaScript",14,Python for Beginners,Data Science with Python,In Progress,4.0
+249,User_149,Intermediate,Hybrid,Full-Stack Development,"JavaScript, Node.js, React",17,CSS Basics,Data Science with Python,Completed,3.9
+250,User_150,Advanced,Instructor-led,Software Development,"Java, Python",10,Intro to HTML,Full-Stack fundamentals,Completed,3.3
+251,User_151,Beginner,Hybrid,Front-End Development,"Java, Python",14,Intro to HTML,Full-Stack fundamentals,Completed,4.1
+252,User_152,Intermediate,Hybrid,Software Development,"Python, R, SQL",9,Advanced SQL Techniques,"Intro to HTML, CSS",In Progress,4.7
+253,User_153,Beginner,Self-paced,Full-Stack Development,"Java, Python",5,Intro to HTML,Full-Stack fundamentals,In Progress,4.7
+254,User_154,Advanced,Instructor-led,Data Science,"Python, R, SQL",8,Java Basics,Java Basics,Completed,4.4
+255,User_155,Advanced,Self-paced,Full-Stack Development,"Python, R, SQL",6,Intro to HTML,Java Basics,Completed,3.2
+256,User_156,Advanced,Hybrid,Data Science,"HTML, CSS, JavaScript",13,Node.js Essentials,"Intro to HTML, CSS",Completed,3.6
+257,User_157,Intermediate,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",11,Intro to HTML,Full-Stack fundamentals,Completed,4.1
+258,User_158,Advanced,Hybrid,Data Science,"Python, R, SQL",20,Advanced SQL Techniques,JavaScript Essentials,In Progress,4.0
+259,User_159,Intermediate,Instructor-led,Data Science,"JavaScript, Node.js, React",9,Python for Beginners,Java Basics,Completed,4.2
+260,User_160,Advanced,Self-paced,Data Science,"HTML, CSS, JavaScript",7,Full-Stack fundamentals,"Intro to HTML, CSS",Completed,3.8
+261,User_161,Beginner,Hybrid,Data Science,"HTML, CSS, JavaScript",9,Java Basics,Java Basics,In Progress,4.6
+262,User_162,Advanced,Hybrid,Full-Stack Development,"Java, Python",5,Data Science with Python,Java Basics,In Progress,3.3
+263,User_163,Beginner,Self-paced,Front-End Development,"Python, R, SQL",10,Java Basics,Full-Stack fundamentals,Completed,3.6
+264,User_164,Beginner,Hybrid,Software Development,"Python, R, SQL",9,CSS Basics,Java Basics,In Progress,4.8
+265,User_165,Beginner,Instructor-led,Data Science,"Java, Python",11,CSS Basics,Java Basics,Completed,3.1
+266,User_166,Intermediate,Instructor-led,Data Science,"HTML, CSS, JavaScript",13,Python for Beginners,Data Science with Python,In Progress,4.1
+267,User_167,Beginner,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",9,Full-Stack fundamentals,JavaScript Essentials,Completed,4.4
+268,User_168,Advanced,Self-paced,Front-End Development,"JavaScript, Node.js, React",20,Full-Stack fundamentals,"Intro to HTML, CSS",In Progress,4.7
+269,User_169,Advanced,Instructor-led,Data Science,"Python, R, SQL",7,CSS Basics,JavaScript Essentials,Completed,4.8
+270,User_170,Beginner,Instructor-led,Software Development,"Java, Python",10,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,3.2
+271,User_171,Beginner,Instructor-led,Software Development,"Python, R, SQL",13,Node.js Essentials,Java Basics,In Progress,3.6
+272,User_172,Beginner,Self-paced,Data Science,"Python, R, SQL",13,CSS Basics,"Intro to HTML, CSS",Completed,4.2
+273,User_173,Beginner,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",11,Node.js Essentials,JavaScript Essentials,In Progress,4.2
+274,User_174,Advanced,Instructor-led,Data Science,"Python, R, SQL",8,Full-Stack fundamentals,JavaScript Essentials,In Progress,4.7
+275,User_175,Advanced,Self-paced,Full-Stack Development,"Python, R, SQL",8,Node.js Essentials,Data Science with Python,Completed,4.5
+276,User_176,Advanced,Hybrid,Software Development,"JavaScript, Node.js, React",6,Intro to HTML,Full-Stack fundamentals,In Progress,3.5
+277,User_177,Beginner,Self-paced,Full-Stack Development,"Java, Python",13,Python for Beginners,Data Science with Python,In Progress,3.3
+278,User_178,Intermediate,Hybrid,Front-End Development,"JavaScript, Node.js, React",8,Java Basics,"Intro to HTML, CSS",Completed,4.0
+279,User_179,Intermediate,Hybrid,Front-End Development,"Java, Python",8,Java Basics,"Intro to HTML, CSS",Completed,3.3
+280,User_180,Beginner,Hybrid,Data Science,"HTML, CSS, JavaScript",19,Java Basics,Java Basics,Completed,3.7
+281,User_181,Advanced,Hybrid,Front-End Development,"HTML, CSS, JavaScript",14,Python for Beginners,Full-Stack fundamentals,In Progress,3.9
+282,User_182,Advanced,Hybrid,Software Development,"JavaScript, Node.js, React",17,CSS Basics,Data Science with Python,In Progress,4.6
+283,User_183,Intermediate,Instructor-led,Software Development,"JavaScript, Node.js, React",7,Full-Stack fundamentals,JavaScript Essentials,In Progress,3.2
+284,User_184,Intermediate,Self-paced,Front-End Development,"JavaScript, Node.js, React",17,Data Science with Python,Full-Stack fundamentals,Completed,4.2
+285,User_185,Intermediate,Self-paced,Data Science,"HTML, CSS, JavaScript",5,Python for Beginners,Java Basics,In Progress,3.9
+286,User_186,Advanced,Hybrid,Front-End Development,"JavaScript, Node.js, React",19,Intro to HTML,Java Basics,Completed,4.3
+287,User_187,Beginner,Hybrid,Full-Stack Development,"Java, Python",5,Java Basics,JavaScript Essentials,Completed,3.8
+288,User_188,Advanced,Self-paced,Data Science,"Python, R, SQL",19,Python for Beginners,Data Science with Python,In Progress,4.8
+289,User_189,Intermediate,Hybrid,Front-End Development,"HTML, CSS, JavaScript",20,Full-Stack fundamentals,JavaScript Essentials,Completed,3.5
+290,User_190,Advanced,Self-paced,Full-Stack Development,"Java, Python",11,Intro to HTML,"Intro to HTML, CSS",Completed,4.9
+291,User_191,Advanced,Self-paced,Full-Stack Development,"Python, R, SQL",10,Python for Beginners,Data Science with Python,Completed,5.0
+292,User_192,Intermediate,Instructor-led,Data Science,"Python, R, SQL",5,Data Science with Python,JavaScript Essentials,Completed,3.2
+293,User_193,Advanced,Hybrid,Data Science,"Java, Python",14,Data Science with Python,Data Science with Python,Completed,3.4
+294,User_194,Beginner,Self-paced,Full-Stack Development,"HTML, CSS, JavaScript",18,Python for Beginners,"Intro to HTML, CSS",In Progress,4.2
+295,User_195,Advanced,Self-paced,Software Development,"Python, R, SQL",7,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,4.5
+296,User_196,Intermediate,Self-paced,Front-End Development,"JavaScript, Node.js, React",15,Java Basics,JavaScript Essentials,In Progress,3.5
+297,User_197,Advanced,Self-paced,Software Development,"Python, R, SQL",15,Advanced SQL Techniques,JavaScript Essentials,Completed,3.1
+298,User_198,Advanced,Hybrid,Full-Stack Development,"Java, Python",10,CSS Basics,Full-Stack fundamentals,In Progress,4.0
+299,User_199,Beginner,Hybrid,Front-End Development,"JavaScript, Node.js, React",6,Python for Beginners,"Intro to HTML, CSS",Completed,3.9
+300,User_200,Intermediate,Instructor-led,Front-End Development,"Java, Python",19,Advanced SQL Techniques,Data Science with Python,In Progress,4.2
+301,User_201,Advanced,Hybrid,Data Science,"Java, Python",16,Python for Beginners,Data Science with Python,In Progress,4.8
+302,User_202,Advanced,Self-paced,Software Development,"Python, R, SQL",11,Java Basics,Full-Stack fundamentals,Completed,4.8
+303,User_203,Beginner,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",6,Full-Stack fundamentals,Full-Stack fundamentals,Completed,4.8
+304,User_204,Beginner,Self-paced,Software Development,"HTML, CSS, JavaScript",19,Advanced SQL Techniques,Full-Stack fundamentals,Completed,3.4
+305,User_205,Intermediate,Hybrid,Software Development,"Java, Python",13,Data Science with Python,Data Science with Python,In Progress,4.5
+306,User_206,Intermediate,Instructor-led,Front-End Development,"JavaScript, Node.js, React",11,Node.js Essentials,"Intro to HTML, CSS",Completed,3.4
+307,User_207,Intermediate,Self-paced,Data Science,"Python, R, SQL",6,Python for Beginners,Java Basics,In Progress,5.0
+308,User_208,Intermediate,Instructor-led,Data Science,"Python, R, SQL",19,Data Science with Python,"Intro to HTML, CSS",In Progress,4.5
+309,User_209,Beginner,Self-paced,Data Science,"Java, Python",20,CSS Basics,"Intro to HTML, CSS",Completed,3.8
+310,User_210,Advanced,Hybrid,Data Science,"HTML, CSS, JavaScript",10,Java Basics,Data Science with Python,In Progress,4.2
+311,User_211,Intermediate,Hybrid,Data Science,"HTML, CSS, JavaScript",19,Intro to HTML,JavaScript Essentials,Completed,4.7
+312,User_212,Beginner,Instructor-led,Software Development,"Java, Python",19,Intro to HTML,Java Basics,In Progress,3.6
+313,User_213,Advanced,Self-paced,Data Science,"Python, R, SQL",8,Node.js Essentials,Data Science with Python,Completed,4.8
+314,User_214,Intermediate,Instructor-led,Front-End Development,"JavaScript, Node.js, React",14,Data Science with Python,Full-Stack fundamentals,Completed,4.0
+315,User_215,Advanced,Hybrid,Software Development,"Python, R, SQL",8,Data Science with Python,Full-Stack fundamentals,Completed,3.5
+316,User_216,Advanced,Self-paced,Front-End Development,"Python, R, SQL",17,CSS Basics,Full-Stack fundamentals,In Progress,3.3
+317,User_217,Beginner,Hybrid,Data Science,"JavaScript, Node.js, React",5,Node.js Essentials,Data Science with Python,Completed,3.7
+318,User_218,Beginner,Self-paced,Full-Stack Development,"Java, Python",20,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,4.8
+319,User_219,Intermediate,Instructor-led,Data Science,"Python, R, SQL",16,CSS Basics,Data Science with Python,Completed,4.2
+320,User_220,Intermediate,Instructor-led,Software Development,"Java, Python",11,Data Science with Python,Full-Stack fundamentals,In Progress,4.5
+321,User_221,Advanced,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",6,Node.js Essentials,"Intro to HTML, CSS",In Progress,3.8
+322,User_222,Advanced,Hybrid,Software Development,"HTML, CSS, JavaScript",18,CSS Basics,JavaScript Essentials,Completed,4.4
+323,User_223,Advanced,Self-paced,Data Science,"Java, Python",5,Advanced SQL Techniques,Java Basics,In Progress,3.5
+324,User_224,Intermediate,Instructor-led,Data Science,"HTML, CSS, JavaScript",18,Full-Stack fundamentals,Data Science with Python,Completed,3.3
+325,User_225,Intermediate,Self-paced,Front-End Development,"Java, Python",11,Node.js Essentials,JavaScript Essentials,Completed,3.4
+326,User_226,Intermediate,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",14,Intro to HTML,JavaScript Essentials,In Progress,3.8
+327,User_227,Intermediate,Hybrid,Front-End Development,"Python, R, SQL",15,Python for Beginners,JavaScript Essentials,In Progress,3.6
+328,User_228,Intermediate,Self-paced,Software Development,"HTML, CSS, JavaScript",11,Java Basics,Full-Stack fundamentals,Completed,4.9
+329,User_229,Advanced,Hybrid,Software Development,"Python, R, SQL",9,Java Basics,Full-Stack fundamentals,In Progress,3.5
+330,User_230,Intermediate,Self-paced,Software Development,"JavaScript, Node.js, React",10,Python for Beginners,"Intro to HTML, CSS",Completed,4.4
+331,User_231,Intermediate,Self-paced,Full-Stack Development,"Python, R, SQL",10,Data Science with Python,Full-Stack fundamentals,In Progress,3.9
+332,User_232,Intermediate,Instructor-led,Data Science,"JavaScript, Node.js, React",13,Node.js Essentials,Data Science with Python,In Progress,3.8
+333,User_233,Advanced,Hybrid,Full-Stack Development,"Python, R, SQL",11,CSS Basics,Java Basics,In Progress,3.7
+334,User_234,Advanced,Hybrid,Full-Stack Development,"Java, Python",11,Advanced SQL Techniques,JavaScript Essentials,Completed,4.0
+335,User_235,Beginner,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",14,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,3.3
+336,User_236,Beginner,Self-paced,Front-End Development,"HTML, CSS, JavaScript",7,Java Basics,Java Basics,Completed,4.1
+337,User_237,Intermediate,Hybrid,Software Development,"Java, Python",9,Java Basics,"Intro to HTML, CSS",Completed,4.0
+338,User_238,Advanced,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",8,Advanced SQL Techniques,"Intro to HTML, CSS",In Progress,3.5
+339,User_239,Beginner,Instructor-led,Front-End Development,"Python, R, SQL",20,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,4.3
+340,User_240,Beginner,Hybrid,Data Science,"Python, R, SQL",13,Python for Beginners,"Intro to HTML, CSS",Completed,4.8
+341,User_241,Beginner,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",9,Java Basics,Java Basics,Completed,4.3
+342,User_242,Beginner,Self-paced,Front-End Development,"JavaScript, Node.js, React",12,Python for Beginners,Full-Stack fundamentals,In Progress,3.1
+343,User_243,Advanced,Self-paced,Front-End Development,"HTML, CSS, JavaScript",8,Python for Beginners,Data Science with Python,In Progress,4.4
+344,User_244,Beginner,Instructor-led,Data Science,"Python, R, SQL",12,Java Basics,"Intro to HTML, CSS",Completed,4.5
+345,User_245,Intermediate,Instructor-led,Front-End Development,"JavaScript, Node.js, React",19,CSS Basics,Java Basics,In Progress,3.6
+346,User_246,Intermediate,Hybrid,Front-End Development,"Python, R, SQL",20,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,4.1
+347,User_247,Advanced,Hybrid,Front-End Development,"JavaScript, Node.js, React",17,Data Science with Python,Full-Stack fundamentals,Completed,4.0
+348,User_248,Intermediate,Self-paced,Full-Stack Development,"Java, Python",16,Full-Stack fundamentals,JavaScript Essentials,Completed,4.5
+349,User_249,Beginner,Hybrid,Full-Stack Development,"Python, R, SQL",7,Advanced SQL Techniques,Data Science with Python,In Progress,5.0
+350,User_250,Advanced,Instructor-led,Software Development,"Python, R, SQL",12,Java Basics,JavaScript Essentials,Completed,4.1
+351,User_251,Intermediate,Instructor-led,Software Development,"JavaScript, Node.js, React",9,Advanced SQL Techniques,Data Science with Python,In Progress,3.1
+352,User_252,Advanced,Self-paced,Front-End Development,"JavaScript, Node.js, React",7,Full-Stack fundamentals,Full-Stack fundamentals,In Progress,4.3
+353,User_253,Intermediate,Hybrid,Software Development,"Java, Python",19,Intro to HTML,Data Science with Python,In Progress,4.4
+354,User_254,Beginner,Instructor-led,Software Development,"Java, Python",18,Advanced SQL Techniques,Full-Stack fundamentals,In Progress,3.6
+355,User_255,Advanced,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",8,Full-Stack fundamentals,JavaScript Essentials,Completed,5.0
+356,User_256,Advanced,Instructor-led,Front-End Development,"Python, R, SQL",15,Full-Stack fundamentals,Data Science with Python,In Progress,4.6
+357,User_257,Intermediate,Hybrid,Data Science,"HTML, CSS, JavaScript",18,Full-Stack fundamentals,Full-Stack fundamentals,Completed,3.5
+358,User_258,Advanced,Instructor-led,Software Development,"HTML, CSS, JavaScript",16,CSS Basics,Full-Stack fundamentals,In Progress,3.3
+359,User_259,Beginner,Instructor-led,Full-Stack Development,"Java, Python",12,Full-Stack fundamentals,Data Science with Python,Completed,3.2
+360,User_260,Intermediate,Hybrid,Full-Stack Development,"Java, Python",12,Full-Stack fundamentals,"Intro to HTML, CSS",In Progress,3.8
+361,User_261,Intermediate,Hybrid,Full-Stack Development,"Python, R, SQL",17,Intro to HTML,Full-Stack fundamentals,In Progress,3.3
+362,User_262,Beginner,Hybrid,Data Science,"Java, Python",7,CSS Basics,JavaScript Essentials,Completed,4.8
+363,User_263,Intermediate,Instructor-led,Software Development,"Python, R, SQL",20,Data Science with Python,JavaScript Essentials,Completed,4.4
+364,User_264,Intermediate,Instructor-led,Full-Stack Development,"JavaScript, Node.js, React",5,CSS Basics,"Intro to HTML, CSS",Completed,4.2
+365,User_265,Intermediate,Hybrid,Front-End Development,"Python, R, SQL",10,Full-Stack fundamentals,"Intro to HTML, CSS",Completed,4.4
+366,User_266,Intermediate,Hybrid,Data Science,"HTML, CSS, JavaScript",20,Data Science with Python,Full-Stack fundamentals,Completed,3.5
+367,User_267,Intermediate,Self-paced,Front-End Development,"Java, Python",8,Full-Stack fundamentals,"Intro to HTML, CSS",In Progress,4.2
+368,User_268,Beginner,Hybrid,Data Science,"Python, R, SQL",12,Intro to HTML,Full-Stack fundamentals,In Progress,4.5
+369,User_269,Beginner,Instructor-led,Full-Stack Development,"Python, R, SQL",16,Intro to HTML,Data Science with Python,Completed,4.8
+370,User_270,Advanced,Self-paced,Software Development,"Java, Python",17,Data Science with Python,Java Basics,Completed,3.0
+371,User_271,Intermediate,Instructor-led,Full-Stack Development,"JavaScript, Node.js, React",20,Node.js Essentials,Java Basics,In Progress,3.8
+372,User_272,Intermediate,Hybrid,Data Science,"JavaScript, Node.js, React",14,CSS Basics,JavaScript Essentials,In Progress,3.6
+373,User_273,Intermediate,Instructor-led,Data Science,"JavaScript, Node.js, React",10,Intro to HTML,Full-Stack fundamentals,In Progress,4.3
+374,User_274,Intermediate,Self-paced,Front-End Development,"Java, Python",14,Advanced SQL Techniques,Data Science with Python,Completed,4.9
+375,User_275,Intermediate,Instructor-led,Data Science,"Java, Python",14,Python for Beginners,"Intro to HTML, CSS",Completed,3.3
+376,User_276,Intermediate,Instructor-led,Full-Stack Development,"JavaScript, Node.js, React",8,Java Basics,Data Science with Python,In Progress,4.0
+377,User_277,Intermediate,Self-paced,Full-Stack Development,"Java, Python",5,Python for Beginners,Data Science with Python,Completed,4.1
+378,User_278,Intermediate,Hybrid,Software Development,"Java, Python",15,Java Basics,Data Science with Python,In Progress,4.2
+379,User_279,Advanced,Self-paced,Data Science,"JavaScript, Node.js, React",5,Full-Stack fundamentals,"Intro to HTML, CSS",Completed,4.1
+380,User_280,Advanced,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",10,Intro to HTML,Full-Stack fundamentals,In Progress,4.4
+381,User_281,Advanced,Hybrid,Software Development,"JavaScript, Node.js, React",12,Full-Stack fundamentals,Java Basics,Completed,4.8
+382,User_282,Advanced,Hybrid,Front-End Development,"Python, R, SQL",17,Advanced SQL Techniques,Data Science with Python,In Progress,3.9
+383,User_283,Intermediate,Hybrid,Software Development,"JavaScript, Node.js, React",18,Advanced SQL Techniques,JavaScript Essentials,Completed,3.6
+384,User_284,Beginner,Hybrid,Data Science,"Python, R, SQL",18,Data Science with Python,JavaScript Essentials,In Progress,5.0
+385,User_285,Advanced,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",20,Data Science with Python,"Intro to HTML, CSS",In Progress,4.3
+386,User_286,Advanced,Self-paced,Front-End Development,"Python, R, SQL",12,Java Basics,JavaScript Essentials,Completed,3.2
+387,User_287,Intermediate,Hybrid,Front-End Development,"Python, R, SQL",10,Full-Stack fundamentals,Java Basics,Completed,3.0
+388,User_288,Advanced,Self-paced,Full-Stack Development,"Java, Python",6,Java Basics,"Intro to HTML, CSS",In Progress,4.6
+389,User_289,Beginner,Instructor-led,Data Science,"Java, Python",15,Node.js Essentials,Data Science with Python,Completed,4.9
+390,User_290,Advanced,Self-paced,Front-End Development,"JavaScript, Node.js, React",12,Full-Stack fundamentals,JavaScript Essentials,Completed,3.1
+391,User_291,Intermediate,Hybrid,Full-Stack Development,"Java, Python",5,Data Science with Python,Full-Stack fundamentals,In Progress,3.2
+392,User_292,Advanced,Self-paced,Data Science,"Python, R, SQL",11,Intro to HTML,Full-Stack fundamentals,Completed,4.2
+393,User_293,Intermediate,Instructor-led,Software Development,"Python, R, SQL",15,Intro to HTML,Java Basics,Completed,4.7
+394,User_294,Advanced,Hybrid,Data Science,"JavaScript, Node.js, React",17,Full-Stack fundamentals,"Intro to HTML, CSS",Completed,4.7
+395,User_295,Beginner,Hybrid,Data Science,"Java, Python",19,Advanced SQL Techniques,Java Basics,In Progress,4.7
+396,User_296,Beginner,Self-paced,Full-Stack Development,"HTML, CSS, JavaScript",19,Intro to HTML,Java Basics,In Progress,3.0
+397,User_297,Intermediate,Hybrid,Data Science,"JavaScript, Node.js, React",11,Node.js Essentials,"Intro to HTML, CSS",In Progress,3.9
+398,User_298,Intermediate,Hybrid,Data Science,"Python, R, SQL",13,Full-Stack fundamentals,Full-Stack fundamentals,Completed,4.4
+399,User_299,Beginner,Hybrid,Full-Stack Development,"Java, Python",6,Node.js Essentials,Data Science with Python,In Progress,4.9
+400,User_300,Intermediate,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",9,Python for Beginners,Java Basics,In Progress,3.4
+401,User_301,Intermediate,Self-paced,Data Science,"HTML, CSS, JavaScript",7,Intro to HTML,Java Basics,Completed,4.6
+402,User_302,Advanced,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",14,Node.js Essentials,Full-Stack fundamentals,In Progress,4.6
+403,User_303,Intermediate,Instructor-led,Full-Stack Development,"Python, R, SQL",9,Full-Stack fundamentals,Java Basics,In Progress,4.5
+404,User_304,Intermediate,Hybrid,Full-Stack Development,"Python, R, SQL",13,Intro to HTML,JavaScript Essentials,In Progress,3.9
+405,User_305,Beginner,Self-paced,Front-End Development,"Java, Python",9,CSS Basics,"Intro to HTML, CSS",Completed,3.8
+406,User_306,Intermediate,Hybrid,Full-Stack Development,"Python, R, SQL",13,Java Basics,"Intro to HTML, CSS",Completed,4.2
+407,User_307,Intermediate,Self-paced,Front-End Development,"Python, R, SQL",6,Intro to HTML,Full-Stack fundamentals,In Progress,4.2
+408,User_308,Intermediate,Instructor-led,Full-Stack Development,"Python, R, SQL",11,CSS Basics,Full-Stack fundamentals,Completed,3.6
+409,User_309,Intermediate,Self-paced,Data Science,"JavaScript, Node.js, React",18,Java Basics,Data Science with Python,In Progress,4.8
+410,User_310,Advanced,Instructor-led,Full-Stack Development,"Java, Python",8,Intro to HTML,Java Basics,Completed,3.4
+411,User_311,Advanced,Instructor-led,Front-End Development,"Java, Python",14,Data Science with Python,Java Basics,In Progress,3.3
+412,User_312,Beginner,Hybrid,Software Development,"JavaScript, Node.js, React",16,CSS Basics,"Intro to HTML, CSS",Completed,3.9
+413,User_313,Beginner,Self-paced,Software Development,"HTML, CSS, JavaScript",5,Java Basics,Java Basics,Completed,4.4
+414,User_314,Intermediate,Instructor-led,Software Development,"Java, Python",20,Intro to HTML,Java Basics,In Progress,3.9
+415,User_315,Advanced,Hybrid,Full-Stack Development,"Java, Python",12,Intro to HTML,Java Basics,In Progress,3.3
+416,User_316,Beginner,Hybrid,Data Science,"HTML, CSS, JavaScript",16,Full-Stack fundamentals,"Intro to HTML, CSS",In Progress,4.0
+417,User_317,Intermediate,Self-paced,Front-End Development,"Java, Python",7,Full-Stack fundamentals,Java Basics,Completed,4.1
+418,User_318,Advanced,Hybrid,Software Development,"Python, R, SQL",15,Data Science with Python,Data Science with Python,Completed,3.0
+419,User_319,Beginner,Self-paced,Software Development,"Java, Python",13,Java Basics,Java Basics,In Progress,3.2
+420,User_320,Advanced,Instructor-led,Full-Stack Development,"JavaScript, Node.js, React",7,Advanced SQL Techniques,JavaScript Essentials,In Progress,4.1
+421,User_321,Advanced,Self-paced,Software Development,"Python, R, SQL",16,Python for Beginners,Full-Stack fundamentals,Completed,4.2
+422,User_322,Advanced,Instructor-led,Data Science,"Python, R, SQL",19,Java Basics,"Intro to HTML, CSS",In Progress,4.6
+423,User_323,Advanced,Hybrid,Software Development,"JavaScript, Node.js, React",19,Java Basics,"Intro to HTML, CSS",Completed,3.7
+424,User_324,Advanced,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",18,Python for Beginners,Data Science with Python,Completed,3.7
+425,User_325,Intermediate,Self-paced,Software Development,"Python, R, SQL",12,Java Basics,Data Science with Python,In Progress,4.9
+426,User_326,Advanced,Instructor-led,Front-End Development,"JavaScript, Node.js, React",12,Full-Stack fundamentals,"Intro to HTML, CSS",Completed,4.0
+427,User_327,Beginner,Hybrid,Front-End Development,"JavaScript, Node.js, React",18,CSS Basics,JavaScript Essentials,In Progress,4.8
+428,User_328,Beginner,Hybrid,Software Development,"Java, Python",18,CSS Basics,"Intro to HTML, CSS",In Progress,4.7
+429,User_329,Advanced,Hybrid,Front-End Development,"Java, Python",19,Data Science with Python,Data Science with Python,Completed,3.7
+430,User_330,Advanced,Hybrid,Front-End Development,"Python, R, SQL",19,Data Science with Python,JavaScript Essentials,In Progress,4.7
+431,User_331,Advanced,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",18,Data Science with Python,Java Basics,Completed,3.9
+432,User_332,Advanced,Self-paced,Data Science,"JavaScript, Node.js, React",14,CSS Basics,JavaScript Essentials,Completed,4.6
+433,User_333,Advanced,Self-paced,Software Development,"JavaScript, Node.js, React",5,Full-Stack fundamentals,Java Basics,Completed,4.6
+434,User_334,Intermediate,Instructor-led,Full-Stack Development,"Java, Python",13,Full-Stack fundamentals,Full-Stack fundamentals,In Progress,4.5
+435,User_335,Advanced,Self-paced,Data Science,"Python, R, SQL",17,CSS Basics,Java Basics,In Progress,4.1
+436,User_336,Beginner,Instructor-led,Data Science,"HTML, CSS, JavaScript",11,Data Science with Python,Java Basics,In Progress,3.4
+437,User_337,Intermediate,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",8,CSS Basics,"Intro to HTML, CSS",Completed,3.4
+438,User_338,Intermediate,Self-paced,Data Science,"JavaScript, Node.js, React",15,Intro to HTML,"Intro to HTML, CSS",In Progress,5.0
+439,User_339,Advanced,Instructor-led,Software Development,"Python, R, SQL",8,Java Basics,"Intro to HTML, CSS",Completed,3.3
+440,User_340,Beginner,Hybrid,Front-End Development,"JavaScript, Node.js, React",10,Java Basics,Data Science with Python,In Progress,4.5
+441,User_341,Intermediate,Self-paced,Front-End Development,"Java, Python",14,Python for Beginners,Java Basics,In Progress,4.6
+442,User_342,Intermediate,Self-paced,Front-End Development,"HTML, CSS, JavaScript",20,Advanced SQL Techniques,Data Science with Python,Completed,4.0
+443,User_343,Beginner,Hybrid,Full-Stack Development,"JavaScript, Node.js, React",18,Python for Beginners,JavaScript Essentials,Completed,3.2
+444,User_344,Beginner,Self-paced,Full-Stack Development,"Python, R, SQL",6,Full-Stack fundamentals,JavaScript Essentials,Completed,4.6
+445,User_345,Beginner,Self-paced,Front-End Development,"JavaScript, Node.js, React",11,Python for Beginners,JavaScript Essentials,In Progress,4.9
+446,User_346,Beginner,Instructor-led,Full-Stack Development,"Java, Python",16,Node.js Essentials,"Intro to HTML, CSS",Completed,4.4
+447,User_347,Beginner,Hybrid,Front-End Development,"Java, Python",14,Data Science with Python,Java Basics,Completed,3.5
+448,User_348,Intermediate,Hybrid,Data Science,"HTML, CSS, JavaScript",17,Advanced SQL Techniques,Data Science with Python,Completed,3.2
+449,User_349,Advanced,Instructor-led,Front-End Development,"Java, Python",14,Python for Beginners,Full-Stack fundamentals,In Progress,3.8
+450,User_350,Advanced,Self-paced,Front-End Development,"Python, R, SQL",14,Python for Beginners,JavaScript Essentials,Completed,4.7
+451,User_351,Advanced,Instructor-led,Full-Stack Development,"Python, R, SQL",15,Data Science with Python,Full-Stack fundamentals,In Progress,4.4
+452,User_352,Intermediate,Instructor-led,Data Science,"Java, Python",9,Advanced SQL Techniques,Java Basics,In Progress,3.7
+453,User_353,Beginner,Self-paced,Full-Stack Development,"HTML, CSS, JavaScript",16,Node.js Essentials,Data Science with Python,Completed,3.4
+454,User_354,Intermediate,Hybrid,Data Science,"Java, Python",13,Full-Stack fundamentals,JavaScript Essentials,In Progress,3.6
+455,User_355,Beginner,Instructor-led,Software Development,"HTML, CSS, JavaScript",20,Python for Beginners,"Intro to HTML, CSS",Completed,4.2
+456,User_356,Advanced,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",9,Python for Beginners,Full-Stack fundamentals,In Progress,3.7
+457,User_357,Beginner,Self-paced,Front-End Development,"Java, Python",5,Data Science with Python,Data Science with Python,Completed,3.3
+458,User_358,Intermediate,Self-paced,Full-Stack Development,"Java, Python",14,Node.js Essentials,Data Science with Python,Completed,4.9
+459,User_359,Advanced,Hybrid,Full-Stack Development,"JavaScript, Node.js, React",17,Data Science with Python,"Intro to HTML, CSS",Completed,4.8
+460,User_360,Advanced,Hybrid,Full-Stack Development,"Python, R, SQL",20,Data Science with Python,Java Basics,In Progress,3.8
+461,User_361,Intermediate,Self-paced,Front-End Development,"Python, R, SQL",18,Python for Beginners,"Intro to HTML, CSS",In Progress,4.2
+462,User_362,Beginner,Hybrid,Front-End Development,"JavaScript, Node.js, React",10,Node.js Essentials,Data Science with Python,Completed,3.5
+463,User_363,Advanced,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",12,Python for Beginners,"Intro to HTML, CSS",Completed,4.2
+464,User_364,Advanced,Instructor-led,Software Development,"HTML, CSS, JavaScript",18,Advanced SQL Techniques,Data Science with Python,In Progress,4.0
+465,User_365,Advanced,Self-paced,Full-Stack Development,"HTML, CSS, JavaScript",20,CSS Basics,Data Science with Python,Completed,3.5
+466,User_366,Advanced,Hybrid,Software Development,"Python, R, SQL",11,Intro to HTML,Data Science with Python,Completed,3.9
+467,User_367,Intermediate,Self-paced,Front-End Development,"Java, Python",14,Node.js Essentials,Data Science with Python,Completed,4.1
+468,User_368,Beginner,Instructor-led,Front-End Development,"Java, Python",20,Full-Stack fundamentals,JavaScript Essentials,In Progress,4.0
+469,User_369,Intermediate,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",9,Intro to HTML,Full-Stack fundamentals,Completed,4.2
+470,User_370,Advanced,Instructor-led,Software Development,"Java, Python",18,Python for Beginners,"Intro to HTML, CSS",In Progress,4.0
+471,User_371,Beginner,Hybrid,Full-Stack Development,"Java, Python",11,Intro to HTML,"Intro to HTML, CSS",Completed,3.8
+472,User_372,Beginner,Instructor-led,Front-End Development,"Java, Python",6,CSS Basics,JavaScript Essentials,In Progress,3.6
+473,User_373,Beginner,Self-paced,Software Development,"HTML, CSS, JavaScript",12,Python for Beginners,JavaScript Essentials,In Progress,3.2
+474,User_374,Advanced,Instructor-led,Front-End Development,"Python, R, SQL",16,Java Basics,Java Basics,In Progress,3.8
+475,User_375,Advanced,Self-paced,Front-End Development,"Python, R, SQL",9,Full-Stack fundamentals,JavaScript Essentials,In Progress,4.3
+476,User_376,Intermediate,Hybrid,Data Science,"Java, Python",8,Advanced SQL Techniques,JavaScript Essentials,Completed,3.4
+477,User_377,Beginner,Hybrid,Software Development,"Python, R, SQL",8,Data Science with Python,"Intro to HTML, CSS",Completed,4.8
+478,User_378,Intermediate,Self-paced,Data Science,"Python, R, SQL",7,Java Basics,Java Basics,Completed,3.7
+479,User_379,Advanced,Hybrid,Software Development,"HTML, CSS, JavaScript",18,Java Basics,Data Science with Python,Completed,3.7
+480,User_380,Beginner,Instructor-led,Front-End Development,"Java, Python",12,Intro to HTML,Data Science with Python,Completed,3.6
+481,User_381,Beginner,Self-paced,Software Development,"Java, Python",13,CSS Basics,Java Basics,In Progress,4.8
+482,User_382,Beginner,Instructor-led,Front-End Development,"Python, R, SQL",11,Advanced SQL Techniques,"Intro to HTML, CSS",Completed,4.7
+483,User_383,Intermediate,Hybrid,Software Development,"HTML, CSS, JavaScript",16,Java Basics,JavaScript Essentials,In Progress,3.2
+484,User_384,Beginner,Instructor-led,Front-End Development,"JavaScript, Node.js, React",16,Data Science with Python,Full-Stack fundamentals,In Progress,3.5
+485,User_385,Beginner,Instructor-led,Full-Stack Development,"JavaScript, Node.js, React",10,Python for Beginners,JavaScript Essentials,In Progress,4.8
+486,User_386,Advanced,Instructor-led,Data Science,"HTML, CSS, JavaScript",14,Node.js Essentials,Full-Stack fundamentals,In Progress,4.7
+487,User_387,Advanced,Hybrid,Full-Stack Development,"Python, R, SQL",13,Node.js Essentials,"Intro to HTML, CSS",Completed,3.2
+488,User_388,Advanced,Instructor-led,Data Science,"Java, Python",19,Java Basics,"Intro to HTML, CSS",Completed,4.4
+489,User_389,Beginner,Instructor-led,Software Development,"Java, Python",16,Java Basics,Full-Stack fundamentals,Completed,3.5
+490,User_390,Beginner,Self-paced,Software Development,"HTML, CSS, JavaScript",17,Intro to HTML,Full-Stack fundamentals,Completed,3.1
+491,User_391,Intermediate,Self-paced,Software Development,"Java, Python",7,Node.js Essentials,Data Science with Python,In Progress,3.9
+492,User_392,Intermediate,Self-paced,Front-End Development,"Java, Python",15,Node.js Essentials,"Intro to HTML, CSS",Completed,3.3
+493,User_393,Beginner,Self-paced,Software Development,"Java, Python",7,Data Science with Python,Java Basics,Completed,3.1
+494,User_394,Advanced,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",9,Java Basics,Java Basics,Completed,3.8
+495,User_395,Beginner,Self-paced,Software Development,"Java, Python",15,CSS Basics,"Intro to HTML, CSS",In Progress,4.8
+496,User_396,Beginner,Self-paced,Data Science,"JavaScript, Node.js, React",18,CSS Basics,Full-Stack fundamentals,In Progress,3.7
+497,User_397,Advanced,Self-paced,Front-End Development,"JavaScript, Node.js, React",9,Data Science with Python,Java Basics,Completed,4.3
+498,User_398,Advanced,Instructor-led,Front-End Development,"Java, Python",11,Java Basics,JavaScript Essentials,In Progress,3.0
+499,User_399,Beginner,Self-paced,Full-Stack Development,"HTML, CSS, JavaScript",17,Python for Beginners,Data Science with Python,In Progress,3.1
+500,User_400,Intermediate,Hybrid,Data Science,"HTML, CSS, JavaScript",5,Python for Beginners,JavaScript Essentials,Completed,3.5
+501,User_401,Intermediate,Instructor-led,Front-End Development,"Java, Python",5,Python for Beginners,Full-Stack fundamentals,In Progress,4.5
+502,User_402,Beginner,Hybrid,Full-Stack Development,"Java, Python",18,Intro to HTML,"Intro to HTML, CSS",Completed,3.3
+503,User_403,Intermediate,Hybrid,Data Science,"JavaScript, Node.js, React",16,Node.js Essentials,"Intro to HTML, CSS",Completed,3.7
+504,User_404,Intermediate,Hybrid,Software Development,"Python, R, SQL",6,Python for Beginners,JavaScript Essentials,Completed,4.5
+505,User_405,Advanced,Instructor-led,Full-Stack Development,"Java, Python",5,CSS Basics,Full-Stack fundamentals,Completed,4.3
+506,User_406,Advanced,Instructor-led,Front-End Development,"JavaScript, Node.js, React",7,Node.js Essentials,Data Science with Python,Completed,3.5
+507,User_407,Advanced,Instructor-led,Software Development,"HTML, CSS, JavaScript",12,Full-Stack fundamentals,JavaScript Essentials,In Progress,3.8
+508,User_408,Intermediate,Self-paced,Front-End Development,"Java, Python",10,Java Basics,"Intro to HTML, CSS",Completed,4.6
+509,User_409,Advanced,Instructor-led,Software Development,"Python, R, SQL",11,Data Science with Python,Java Basics,In Progress,4.7
+510,User_410,Intermediate,Self-paced,Data Science,"HTML, CSS, JavaScript",5,Advanced SQL Techniques,JavaScript Essentials,In Progress,3.0
+511,User_411,Intermediate,Self-paced,Front-End Development,"Java, Python",16,Full-Stack fundamentals,JavaScript Essentials,Completed,4.7
+512,User_412,Intermediate,Self-paced,Data Science,"HTML, CSS, JavaScript",20,Full-Stack fundamentals,Java Basics,Completed,4.2
+513,User_413,Intermediate,Hybrid,Data Science,"Java, Python",18,Advanced SQL Techniques,Java Basics,Completed,3.2
+514,User_414,Advanced,Self-paced,Software Development,"Java, Python",12,Intro to HTML,Full-Stack fundamentals,In Progress,4.1
+515,User_415,Advanced,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",14,Intro to HTML,"Intro to HTML, CSS",Completed,3.5
+516,User_416,Intermediate,Self-paced,Full-Stack Development,"Java, Python",14,Python for Beginners,Data Science with Python,In Progress,3.2
+517,User_417,Advanced,Instructor-led,Full-Stack Development,"Java, Python",19,Full-Stack fundamentals,Full-Stack fundamentals,Completed,4.2
+518,User_418,Intermediate,Hybrid,Full-Stack Development,"Java, Python",5,Advanced SQL Techniques,Java Basics,Completed,3.3
+519,User_419,Intermediate,Self-paced,Software Development,"HTML, CSS, JavaScript",13,Intro to HTML,Data Science with Python,Completed,3.2
+520,User_420,Intermediate,Self-paced,Data Science,"Java, Python",5,Advanced SQL Techniques,JavaScript Essentials,In Progress,3.2
+521,User_421,Intermediate,Self-paced,Data Science,"Java, Python",15,Data Science with Python,"Intro to HTML, CSS",In Progress,5.0
+522,User_422,Beginner,Hybrid,Data Science,"HTML, CSS, JavaScript",8,Data Science with Python,Full-Stack fundamentals,Completed,4.7
+523,User_423,Advanced,Self-paced,Software Development,"Python, R, SQL",8,Intro to HTML,JavaScript Essentials,Completed,3.2
+524,User_424,Beginner,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",13,Data Science with Python,Java Basics,In Progress,4.3
+525,User_425,Advanced,Instructor-led,Software Development,"JavaScript, Node.js, React",14,CSS Basics,Full-Stack fundamentals,Completed,3.1
+526,User_426,Beginner,Hybrid,Software Development,"HTML, CSS, JavaScript",16,CSS Basics,Data Science with Python,In Progress,4.6
+527,User_427,Beginner,Self-paced,Data Science,"Java, Python",9,Intro to HTML,Full-Stack fundamentals,In Progress,4.7
+528,User_428,Intermediate,Hybrid,Data Science,"Python, R, SQL",5,Data Science with Python,Java Basics,Completed,4.4
+529,User_429,Beginner,Instructor-led,Full-Stack Development,"Python, R, SQL",8,Intro to HTML,"Intro to HTML, CSS",In Progress,4.6
+530,User_430,Intermediate,Self-paced,Front-End Development,"Python, R, SQL",20,Intro to HTML,JavaScript Essentials,In Progress,3.0
+531,User_431,Advanced,Self-paced,Data Science,"Java, Python",20,Python for Beginners,JavaScript Essentials,In Progress,4.1
+532,User_432,Beginner,Instructor-led,Front-End Development,"JavaScript, Node.js, React",19,Python for Beginners,Full-Stack fundamentals,Completed,4.0
+533,User_433,Intermediate,Hybrid,Data Science,"Java, Python",6,Python for Beginners,JavaScript Essentials,In Progress,4.2
+534,User_434,Advanced,Hybrid,Front-End Development,"Java, Python",8,Python for Beginners,"Intro to HTML, CSS",In Progress,4.2
+535,User_435,Advanced,Self-paced,Software Development,"JavaScript, Node.js, React",10,Advanced SQL Techniques,Data Science with Python,Completed,4.7
+536,User_436,Intermediate,Self-paced,Front-End Development,"Java, Python",15,Intro to HTML,Full-Stack fundamentals,Completed,3.4
+537,User_437,Advanced,Self-paced,Full-Stack Development,"JavaScript, Node.js, React",8,Java Basics,"Intro to HTML, CSS",In Progress,4.6
+538,User_438,Intermediate,Instructor-led,Front-End Development,"JavaScript, Node.js, React",17,CSS Basics,Java Basics,In Progress,3.6
+539,User_439,Intermediate,Hybrid,Full-Stack Development,"Python, R, SQL",16,Node.js Essentials,Data Science with Python,Completed,3.6
+540,User_440,Advanced,Instructor-led,Data Science,"Java, Python",5,Node.js Essentials,Java Basics,Completed,4.5
+541,User_441,Beginner,Self-paced,Data Science,"Java, Python",12,Data Science with Python,Data Science with Python,Completed,4.6
+542,User_442,Beginner,Self-paced,Data Science,"Java, Python",5,Java Basics,Full-Stack fundamentals,In Progress,4.1
+543,User_443,Beginner,Instructor-led,Software Development,"JavaScript, Node.js, React",15,Data Science with Python,Data Science with Python,In Progress,4.5
+544,User_444,Advanced,Hybrid,Full-Stack Development,"JavaScript, Node.js, React",17,Python for Beginners,"Intro to HTML, CSS",Completed,4.7
+545,User_445,Advanced,Hybrid,Software Development,"Python, R, SQL",12,CSS Basics,"Intro to HTML, CSS",In Progress,3.4
+546,User_446,Beginner,Instructor-led,Full-Stack Development,"Java, Python",18,Intro to HTML,Java Basics,Completed,3.6
+547,User_447,Intermediate,Hybrid,Full-Stack Development,"Python, R, SQL",8,Java Basics,"Intro to HTML, CSS",Completed,4.0
+548,User_448,Intermediate,Self-paced,Full-Stack Development,"Java, Python",5,CSS Basics,Java Basics,Completed,3.2
+549,User_449,Advanced,Hybrid,Software Development,"HTML, CSS, JavaScript",9,Intro to HTML,"Intro to HTML, CSS",Completed,5.0
+550,User_450,Advanced,Instructor-led,Front-End Development,"Java, Python",11,Java Basics,Data Science with Python,Completed,3.8
+551,User_451,Beginner,Hybrid,Full-Stack Development,"Python, R, SQL",17,Advanced SQL Techniques,Java Basics,Completed,4.9
+552,User_452,Intermediate,Hybrid,Front-End Development,"Java, Python",7,Intro to HTML,Full-Stack fundamentals,In Progress,4.7
+553,User_453,Beginner,Hybrid,Software Development,"Java, Python",8,Advanced SQL Techniques,JavaScript Essentials,Completed,3.1
+554,User_454,Intermediate,Instructor-led,Front-End Development,"Java, Python",16,Node.js Essentials,"Intro to HTML, CSS",In Progress,3.5
+555,User_455,Advanced,Instructor-led,Software Development,"Python, R, SQL",8,Full-Stack fundamentals,Data Science with Python,Completed,3.2
+556,User_456,Advanced,Hybrid,Front-End Development,"HTML, CSS, JavaScript",8,Full-Stack fundamentals,"Intro to HTML, CSS",Completed,4.7
+557,User_457,Beginner,Hybrid,Front-End Development,"Python, R, SQL",14,Full-Stack fundamentals,Full-Stack fundamentals,In Progress,3.9
+558,User_458,Beginner,Hybrid,Software Development,"Python, R, SQL",10,Node.js Essentials,Java Basics,In Progress,3.6
+559,User_459,Advanced,Hybrid,Data Science,"HTML, CSS, JavaScript",18,Python for Beginners,JavaScript Essentials,Completed,4.6
+560,User_460,Intermediate,Hybrid,Data Science,"JavaScript, Node.js, React",16,CSS Basics,Data Science with Python,In Progress,3.3
+561,User_461,Intermediate,Instructor-led,Full-Stack Development,"HTML, CSS, JavaScript",13,Python for Beginners,"Intro to HTML, CSS",In Progress,3.5
+562,User_462,Advanced,Instructor-led,Software Development,"Python, R, SQL",5,Full-Stack fundamentals,Data Science with Python,Completed,3.7
+563,User_463,Advanced,Hybrid,Data Science,"Python, R, SQL",15,Node.js Essentials,Java Basics,Completed,3.7
+564,User_464,Beginner,Self-paced,Software Development,"Java, Python",5,Intro to HTML,Full-Stack fundamentals,In Progress,3.1
+565,User_465,Intermediate,Instructor-led,Software Development,"JavaScript, Node.js, React",13,Node.js Essentials,JavaScript Essentials,Completed,4.8
+566,User_466,Intermediate,Self-paced,Front-End Development,"Python, R, SQL",11,Python for Beginners,"Intro to HTML, CSS",Completed,3.4
+567,User_467,Beginner,Hybrid,Front-End Development,"JavaScript, Node.js, React",15,Python for Beginners,"Intro to HTML, CSS",Completed,4.6
+568,User_468,Beginner,Instructor-led,Front-End Development,"JavaScript, Node.js, React",7,Java Basics,"Intro to HTML, CSS",Completed,4.9
+569,User_469,Advanced,Hybrid,Front-End Development,"JavaScript, Node.js, React",6,Data Science with Python,Java Basics,In Progress,4.3
+570,User_470,Advanced,Hybrid,Front-End Development,"JavaScript, Node.js, React",18,Advanced SQL Techniques,"Intro to HTML, CSS",In Progress,3.5
+571,User_471,Intermediate,Hybrid,Data Science,"HTML, CSS, JavaScript",9,Full-Stack fundamentals,Data Science with Python,In Progress,4.2
+572,User_472,Intermediate,Hybrid,Full-Stack Development,"Python, R, SQL",8,Intro to HTML,JavaScript Essentials,Completed,3.4
+573,User_473,Intermediate,Hybrid,Front-End Development,"JavaScript, Node.js, React",5,Intro to HTML,JavaScript Essentials,Completed,4.6
+574,User_474,Intermediate,Instructor-led,Front-End Development,"JavaScript, Node.js, React",7,CSS Basics,Full-Stack fundamentals,Completed,4.3
+575,User_475,Beginner,Hybrid,Data Science,"Java, Python",5,Python for Beginners,Data Science with Python,In Progress,4.0
+576,User_476,Advanced,Self-paced,Front-End Development,"JavaScript, Node.js, React",5,Full-Stack fundamentals,Java Basics,Completed,3.5
+577,User_477,Beginner,Hybrid,Full-Stack Development,"JavaScript, Node.js, React",20,Full-Stack fundamentals,JavaScript Essentials,In Progress,3.6
+578,User_478,Beginner,Hybrid,Front-End Development,"HTML, CSS, JavaScript",15,Java Basics,Full-Stack fundamentals,Completed,3.9
+579,User_479,Advanced,Self-paced,Front-End Development,"JavaScript, Node.js, React",10,Node.js Essentials,Data Science with Python,In Progress,4.9
+580,User_480,Advanced,Hybrid,Software Development,"HTML, CSS, JavaScript",13,Node.js Essentials,Full-Stack fundamentals,In Progress,4.2
+581,User_481,Intermediate,Self-paced,Software Development,"Python, R, SQL",16,Intro to HTML,Data Science with Python,Completed,3.1
+582,User_482,Intermediate,Self-paced,Front-End Development,"HTML, CSS, JavaScript",14,CSS Basics,JavaScript Essentials,In Progress,3.8
+583,User_483,Intermediate,Instructor-led,Software Development,"JavaScript, Node.js, React",15,Full-Stack fundamentals,Java Basics,Completed,4.3
+584,User_484,Intermediate,Hybrid,Full-Stack Development,"JavaScript, Node.js, React",20,Advanced SQL Techniques,JavaScript Essentials,In Progress,3.2
+585,User_485,Beginner,Hybrid,Full-Stack Development,"HTML, CSS, JavaScript",14,Data Science with Python,Java Basics,In Progress,3.1
+586,User_486,Intermediate,Hybrid,Software Development,"JavaScript, Node.js, React",11,Intro to HTML,Data Science with Python,Completed,3.7
+587,User_487,Beginner,Instructor-led,Front-End Development,"HTML, CSS, JavaScript",20,Java Basics,JavaScript Essentials,Completed,3.3
+588,User_488,Beginner,Hybrid,Data Science,"Python, R, SQL",16,Intro to HTML,Data Science with Python,In Progress,4.8
+589,User_489,Intermediate,Instructor-led,Data Science,"JavaScript, Node.js, React",18,Advanced SQL Techniques,JavaScript Essentials,In Progress,4.0
+590,User_490,Intermediate,Self-paced,Software Development,"HTML, CSS, JavaScript",10,CSS Basics,Data Science with Python,Completed,4.0
+591,User_491,Intermediate,Self-paced,Software Development,"Python, R, SQL",18,Advanced SQL Techniques,"Intro to HTML, CSS",In Progress,3.6
+592,User_492,Intermediate,Instructor-led,Front-End Development,"Python, R, SQL",6,Full-Stack fundamentals,Java Basics,Completed,4.4
+593,User_493,Advanced,Self-paced,Data Science,"Java, Python",19,Java Basics,"Intro to HTML, CSS",Completed,3.3
+594,User_494,Advanced,Self-paced,Front-End Development,"Python, R, SQL",7,Java Basics,"Intro to HTML, CSS",Completed,4.2
+595,User_495,Intermediate,Instructor-led,Software Development,"Python, R, SQL",7,CSS Basics,Java Basics,Completed,4.0
+596,User_496,Beginner,Self-paced,Front-End Development,"Java, Python",8,Data Science with Python,Full-Stack fundamentals,Completed,4.1
+597,User_497,Advanced,Self-paced,Software Development,"JavaScript, Node.js, React",19,Data Science with Python,Java Basics,Completed,3.7
+598,User_498,Intermediate,Instructor-led,Front-End Development,"Java, Python",20,Java Basics,Full-Stack fundamentals,In Progress,3.7
+599,User_499,Beginner,Instructor-led,Data Science,"JavaScript, Node.js, React",19,Data Science with Python,"Intro to HTML, CSS",In Progress,4.8
+600,User_500,Intermediate,Instructor-led,Front-End Development,"JavaScript, Node.js, React",6,Intro to HTML,Data Science with Python,Completed,4.5
